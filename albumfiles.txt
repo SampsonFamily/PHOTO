@@ -1,0 +1,28 @@
+# This file is created by jAlbum. It sets custom file filtering and ordering for this image directory.
+# Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows can have up to 3 tab separated columns according to this scheme:
+# File name | Target path (for links) | When added (seconds since epoch)
+# Note: The target path can reference files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+NON-NGS-BK-Odysseyp212.jpg		1680591912
+NON-NGS-BK-Odysseyp22.jpg		1680591912
+NGM2001_01Flash.jpg		1680591912
+NGM1997_06Flash.jpg		1680591912
+NGM1969_Cover.jpg		1680591912
+NGM1950_02p157.jpg		1680591912
+NGM1941_12p788.jpg		1680591912
+NGM1939_08p185.jpg		1680591912
+NGM1932_03p358.jpg		1680591912
+NGM1933_12p732.jpg		1680591912
+NGM1931_10p434.jpg		1680591912
+NGM10_97_p124_5.jpg		1680591912
+NGM10_97_p118_9.jpg		1680591912
+BK-WomenPhotographersp67.jpg		1680591912
+277.jpg		1680591912
+NGM2001_08p80.jpg		1680591912
+NGM1998_12p121.jpg		1680591912
+NGM1998_12p111up.jpg		1680591912
+NGM1998_12p102-3.jpg		1680591912
+NGM_08_1999_88.jpg		1680591912
